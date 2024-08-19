@@ -134,12 +134,13 @@ For full documentation, visit [docs link].
 ## Benchmarks
 
 AquaBT is designed for speed. Here's how it compares to other popular libraries:
+_This is just a placeholder these benchmarks are NOT REAL ;)_
 
-| Operation          | AquaBT | VectorBT | Backtesting.py |
-| ------------------ | ------ | -------- | -------------- |
-| Cartesian Product  | 0.5s   | 1.2s     | N/A            |
-| SMA (1000 assets)  | 0.3s   | 0.7s     | 2.1s           |
-| Backtest (5 years) | 1.5s   | 3.2s     | 8.7s           |
+| Operation          | AquaQuantBT | VectorBT | Backtesting.py |
+| ------------------ | ----------- | -------- | -------------- |
+| Cartesian Product  | 0.5s        | 1.2s     | N/A            |
+| SMA (1000 assets)  | 0.3s        | 0.7s     | 2.1s           |
+| Backtest (5 years) | 1.5s        | 3.2s     | 8.7s           |
 
 ## Contributing
 
